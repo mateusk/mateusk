@@ -37,6 +37,12 @@ I hold a **Master of Arts in Media Art/Interdisciplinary Poetics** and have part
 
 ## 🏋️ Currently working on...
 <!--START_SECTION:waka-->
+
+```txt
+Vue.js       1 hr 20 mins    █████████████████████▓░░░   86.43 %
+TypeScript   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
