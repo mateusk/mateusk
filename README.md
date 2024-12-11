@@ -19,18 +19,18 @@ I hold a **Master of Arts in Media Art/Interdisciplinary Poetics** and have part
 
 ---
 
-## ✨ Highlights
-- Developed innovative tools for the **digital cinema industry** at Fraunhofer IIS.
-- Designed interactive multimedia experiences for the **cultural and art sectors** at NEEEU Spaces GmbH.
-- Created conceptual UX prototypes for **autonomous mobility services** at Volkswagen Group Future Center Europe.
-- Delivered immersive installations at renowned institutions like the Museum of Tomorrow (Rio de Janeiro) and FILE Festival (São Paulo).
+## 🔦 Highlights
+- Developing innovative tools for the **digital cinema industry** at [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html).
+- Designed and developed web applications and augmented reality experiences for the **cultural sector** at [NEEEU Spaces GmbH](https://neu.io).
+- Created conceptual UX prototypes for **autonomous mobility services** at [Volkswagen Group Future Center Europe](https://www.linkedin.com/company/future-center-europe).
+- Designed and developed interactive multimedia experiences for the **cultural and art sectors** at [Cocolab](https://cocolab.mx) and [Superuber](https://superuber.com) .
 
 ---
 
 ## 🌟 Skills
-- **Programming**: JavaScript, TypeScript, C++, Python, TouchDesigner, Unity.
+- **Programming**: JavaScript, TypeScript, Python, C++, C#.
 - **Design**: UX/UI Design, Interaction Design, Prototyping.
-- **Tools**: Adobe Creative Suite, Blender, CI/CD Pipelines.
+- **Tools**: TouchDesigner, Adobe Creative Suite, Blender, Docker, CI/CD Pipelines.
 - **Languages**: Portuguese (native), English (fluent), German (B2), Spanish (fluent).
 
 ---
@@ -39,13 +39,15 @@ I hold a **Master of Arts in Media Art/Interdisciplinary Poetics** and have part
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+---
+
 ## 🎨 Media Art
-I’ve showcased work in various international festivals and exhibitions, creating interactive installations and immersive experiences that explore the intersection of art and technology.
+I’ve showcased work in various international festivals and exhibitions, creating interactive installations and immersive experiences that explore the intersection of art and technology, including [FILE](https://file.org.br) and [Dorkbot](https://dorkbot.org).
 
 ---
 
-## 🚴 Outside Work
-When not coding or designing, I enjoy climbing, cycling, exploring philosophy, and traveling. Let’s share a mate tea and talk about art, technology, and innovation!
+## 🏔️ Outside Work
+When not coding or designing, I enjoy climbing, cycling, exploring philosophy, and traveling
 
 ---
 
