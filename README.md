@@ -39,9 +39,10 @@ I hold a **Master of Arts in Media Art/Interdisciplinary Poetics** and have part
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 hr 2 mins     █████████░░░░░░░░░░░░░░░░   36.57 %
-Docker       43 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
-Git Config   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Vue.js       2 hrs 39 mins   ███████████▓░░░░░░░░░░░░░   46.00 %
+Bash         1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+Docker       43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Git Config   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 
 <!--END_SECTION:waka-->
