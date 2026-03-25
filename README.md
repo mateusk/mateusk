@@ -39,11 +39,11 @@ I hold a **Master of Arts in Media Art/Interdisciplinary Poetics** and have part
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js        2 hrs 8 mins          ████████████▓░░░░░░░░░░░░   51.17 %
-Python        51 mins               █████░░░░░░░░░░░░░░░░░░░░   20.36 %
-XML           30 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Other         30 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-TypeScript    7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Vue.js        2 hrs 33 mins         █████████████▒░░░░░░░░░░░   53.65 %
+Python        51 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+XML           30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Other         30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+TypeScript    17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
