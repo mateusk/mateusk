@@ -39,9 +39,8 @@ I hold a **Master of Arts in Media Art/Interdisciplinary Poetics** and have part
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          0 secs                █████████████░░░░░░░░░░░░   52.34 %
-CSS          0 secs                ███████████░░░░░░░░░░░░░░   43.92 %
-TypeScript   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Vue   0 secs                ███████████████████▓░░░░░   78.14 %
+CSS   0 secs                █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
 ```
 
 <!--END_SECTION:waka-->
